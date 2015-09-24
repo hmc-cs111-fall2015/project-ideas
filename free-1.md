@@ -1,5 +1,4 @@
-# Free #1 project
-
+# Free project 1
 
 ## The user and a language
 This section describes who the project would serve and why a language might be a
