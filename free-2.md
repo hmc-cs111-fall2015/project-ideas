@@ -1,4 +1,4 @@
-# Free #2 project
+# Free project 2
 
 
 ## The user and a language
