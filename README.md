@@ -1,4 +1,4 @@
-[Teams]: https://github.com/hmc-cs111-fall2015/project-ideas/wiki/Team-sign-ups
+[Teams]: https://github.com/hmc-cs111-fall2015/project-ideas/wiki/Peer-review
 [ProjectGen]: https://github.com/hmc-cs111-fall2015/project-ideas/wiki/Project-generation
 
 # Project Ideas
